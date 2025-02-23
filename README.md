@@ -34,7 +34,7 @@ Backend: Python
 
 Clone the repository:
 
-git clone https://github.com/your-repo/trafficwise-ai-planner.git
+git clonehttps://github.com/Tayyab666-star/TrafficFlowmapandtrafficsuggestionsthroughai.git
 cd trafficwise-ai-planner
 
 Install dependencies:
