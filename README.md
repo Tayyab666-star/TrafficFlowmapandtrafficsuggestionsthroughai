@@ -1,81 +1,81 @@
-# 
-# 🚦 TrafficWise Urban Planner
+🚦 TrafficWise AI Planner
 
-## 🌍 Overview
-TrafficWise Urban Planner is an advanced AI-powered traffic management and urban planning tool. It integrates real-time traffic analysis, congestion solutions, and interactive map visualizations to help users optimize travel routes and enhance city infrastructure planning.
+🌍 Overview
 
-This app is built using **Streamlit**, **Folium**, and the **Groq API**, providing a seamless experience for analyzing traffic conditions and planning smarter urban mobility solutions.
+TrafficWise AI Planner is an advanced AI-powered tool designed to assist with traffic route optimization, urban congestion solutions, and infrastructure planning. The application leverages Streamlit, Folium, and AI models to provide real-time traffic insights and route recommendations.
 
----
+✨ Features
 
-## ✨ Features
+📍 Location-Based Traffic Analysis – Get real-time traffic data for any location.
 
-✅ **AI-Powered Traffic Assistant** – Get real-time traffic insights and route optimization powered by Groq's LLM.
-✅ **Interactive Map Integration** – View live congestion updates for major cities using **Folium** maps.
-✅ **Urban Planning Solutions** – Explore AI-driven recommendations for reducing congestion and improving city transport systems.
-✅ **Dynamic Sidebar Navigation** – Switch between chat-based traffic assistance and interactive map visualization with ease.
-✅ **Free & Open-Source** – Built using open APIs and libraries (OSM Nominatim & Groq API) to ensure cost-effective solutions.
+🛣 Route Optimization – AI-powered suggestions for the best routes.
 
----
+🚗 Urban Congestion Insights – Identify high-traffic areas and avoid bottlenecks.
 
-## 🛠️ Installation
+📊 Interactive Traffic Map – Visualize incidents and traffic patterns using Folium.
 
-### 1️⃣ **Clone the Repository**
-```bash
- git clone https://github.com/your-repo/TrafficWise.git
- cd TrafficWise
-```
+🗣 AI Chat Assistant – Get expert advice on traffic and urban planning using Groq API.
 
-### 2️⃣ **Install Required Dependencies**
-```bash
+📌 Recent Searches – Easily revisit previous traffic queries.
+
+🎚 Adjustable AI Response Variation – Customize AI responses based on creativity and precision needs.
+
+🛠 Tech Stack
+
+Frontend: Streamlit
+
+Mapping: Folium, streamlit-folium
+
+APIs: HERE API (Traffic & Geocoding), Groq AI (Chat Assistant)
+
+Backend: Python
+
+🔧 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/your-repo/trafficwise-ai-planner.git
+cd trafficwise-ai-planner
+
+Install dependencies:
+
 pip install -r requirements.txt
-```
 
-### 3️⃣ **Run the Streamlit App**
-```bash
+Run the application:
+
 streamlit run app.py
-```
 
----
+🌟 Usage
 
-## 🚀 How It Works
-1️⃣ **Ask AI Anything!** – Enter queries about traffic conditions, congestion hotspots, or urban planning solutions.
-2️⃣ **View Real-Time Map!** – Click the sidebar's **"Show Traffic Map"** button to display live traffic conditions.
-3️⃣ **Plan Efficient Routes!** – Get AI-powered suggestions for the best travel routes and infrastructure improvements.
-4️⃣ **Stay Updated!** – Receive alerts on peak hours, smart route planning, and eco-friendly transport options.
+Enter a city or address in the Search Location field.
 
----
+View real-time traffic insights and congestion levels on the interactive map.
 
-## 📍 Cities Covered
-- **Lahore** 🇵🇰
-- **Karachi** 🇵🇰
-- **Islamabad** 🇵🇰
-- **Peshawar** 🇵🇰
-- **Faisalabad** 🇵🇰
+Ask the AI chat assistant for traffic solutions and urban planning advice.
 
----
+Adjust the temperature slider to control AI response creativity.
 
-## 📝 APIs Used
-🔹 **Groq API** – AI-powered traffic assistant
-🔹 **OSM Nominatim API** – Fetches location-based data for traffic updates
-🔹 **Folium** – Interactive map visualization
+Check your recently searched locations for quick access.
 
----
+Follow traffic guidelines provided in the sidebar for a smoother travel experience.
 
-## ⚡ Future Enhancements
-🔹 **Live Traffic Heatmaps** – Integration with more real-time traffic APIs
-🔹 **Predictive Analysis** – AI-driven congestion forecasting
-🔹 **Multi-City Expansion** – Adding more cities worldwide
+🎯 Future Enhancements
 
----
+🚘 Real-Time Navigation Assistance
 
-## 🤝 Contributing
-We welcome contributions! Feel free to fork this repo, submit issues, or send pull requests.
+📡 Live Traffic Camera Feeds
 
----
+🛰 Satellite View Integration
 
-## 📜 License
-This project is **open-source** and available under the **MIT License**.
+📱 Mobile App Version
 
-🚀 **Drive Smart, Plan Better!** 🚦
+🤝 Contributions
+
+We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
+
+📩 Contact
+
+For any queries or suggestions, reach out at tnasir536@gmail.com
+
+🚦 Drive Smart. Plan Better. Avoid Traffic.
 
